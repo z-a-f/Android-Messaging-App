@@ -1,8 +1,8 @@
 # Android-Messaging-App
 Basic messaging app using Sinch API
 
-
-Create a file `res/values/secret.xml` with the following content (from Sinch):
+### Where do I put my app keys and secrets?
+Create file `res/values/secret.xml` with the following content (from Sinch.com):
 ```XML
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
